@@ -7,3 +7,11 @@
 <!-- lang:en -->
 - Official release
 - Optimize known issues and features
+
+## v1.1.6 (2026-08-12)
+
+<!-- lang:zh -->
+- 测试
+
+<!-- lang:en -->
+- Test
