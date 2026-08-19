@@ -1,10 +1,9 @@
 ## v1.1.7 (2026-08-19)
+
+<!-- lang:zh -->
 - 正式发布版本
 - 优化已知问题和功能
 
-## v1.1.6 (2026-08-12)
-- 正式发布版本测试
-- 优化功能
-
-## v1.1.5 (2026-08-12)
-- 工厂测试
+<!-- lang:en -->
+- Official release
+- Optimize known issues and features
