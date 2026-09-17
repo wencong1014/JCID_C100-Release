@@ -2,7 +2,7 @@
 <!-- lang:zh -->
 - 优化WiFi设置界面显示问及窗口缩放
 - 优化已知问题和功能
-- <!-- lang:en -->
+<!-- lang:en -->
 - Optimize WiFi settings interface display query window zoom
 - Optimize known issues and features
 
